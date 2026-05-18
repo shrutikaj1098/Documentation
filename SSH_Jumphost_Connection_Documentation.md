@@ -1,5 +1,7 @@
 # Complete SSH Jumphost Connection Flow Documentation
 
+CODEBASE: https://github.fkinternal.com/Flipkart/secengg-deployment/blob/master/ansibles/roles/jumphost/tasks/jumphost-config.yml
+
 ## Overview
 This document explains the complete step-by-step process of connecting to a target VM (`10.51.146.128`) through a jumphost (`global.jumphost-prod.fkcloud.in`) using SSH certificates and ProxyJump configuration.
 
